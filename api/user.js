@@ -1,0 +1,24 @@
+import { request } from '@/plugins/request'
+
+//用户登陆
+export const login = data => {
+    return request({
+        method:"POST",
+        url:"/api/users/login",
+        data
+    })
+}
+
+//用户注册
+export const register = data => {
+    return request({
+        method:"POST",
+        url:"/api/users",
+        data
+    })
+}
+
+export const updateUser = data => request("/api/user", {
+    method: "PUT",
+    data
+  })
