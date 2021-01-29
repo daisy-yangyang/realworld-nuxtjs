@@ -56,10 +56,10 @@ module.exports = {
     }
   },
 
-  // server: {
-  //   host: '0.0.0.0',
-  //   port: 3000
-  // },
+  server: {
+    host: '0.0.0.0',
+    port: 8080
+  },
 
   // 注册插件
   plugins: [

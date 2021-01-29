@@ -1,0 +1,10 @@
+{
+    "apps":[
+        {
+            "name":"RealWorld",
+            "script":"cnpm",
+            "args":"start"
+        }
+
+    ]
+}
