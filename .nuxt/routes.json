@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\home",
+        "_name": "_7172bf35"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\login",
+        "_name": "_85c5205a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\login",
+        "_name": "_85c5205a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\profile",
+        "_name": "_76b0d0da"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\settings",
+        "_name": "_618b6b79"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\editor",
+        "_name": "_4bf6a37a"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\javaScript\\\\03-03-study-materials\\\\code\\\\Test\\\\pages\\\\article",
+        "_name": "_a91c4a40"
+      }
+    ],
+    "_name": "_3458f000"
+  }
+]
